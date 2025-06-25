@@ -2,7 +2,8 @@
 
 ##  Project Overview
 This project focuses on the design and development of a custom PCB for a 30A-rated home automation system using the ESP32 microcontroller. The aim is to control high-current appliances remotely via Wi-Fi, while ensuring safety, compact design, and low cost.
-![3D View](WhatsApp%20Image%202025-06-17%20at%2014.48.11_e6d09a12.jpg)
+![3D View](WhatsApp%20Image%202025-06-17%20at%2014.47.17_306fb640.jpg)
+
 
 ---
 
